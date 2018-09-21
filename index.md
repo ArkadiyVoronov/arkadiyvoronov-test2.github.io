@@ -39,7 +39,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ _posts/2011-12-31-new-years-eve-is-awesome.md
+      <a href="{{ https://github.com/ArkadiyVoronov/arkadiyvoronov.github.io/blob/master/_posts/2011-12-31-new-years-eve-is-awesome.md
  }}">{{ post.title }}</a>
     </li>
   {% endfor %}
